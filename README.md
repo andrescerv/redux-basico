@@ -1,1 +1,3 @@
-README.md
+# README.md
+
+Primer ejercicio con Redux
